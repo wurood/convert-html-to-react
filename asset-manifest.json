@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/convert-html-to-react-pages/static/css/main.770c08dc.css",
-    "main.js": "/convert-html-to-react-pages/static/js/main.d7827e68.js",
-    "static/js/787.231e9f31.chunk.js": "/convert-html-to-react-pages/static/js/787.231e9f31.chunk.js",
-    "index.html": "/convert-html-to-react-pages/index.html",
-    "main.770c08dc.css.map": "/convert-html-to-react-pages/static/css/main.770c08dc.css.map",
-    "main.d7827e68.js.map": "/convert-html-to-react-pages/static/js/main.d7827e68.js.map",
-    "787.231e9f31.chunk.js.map": "/convert-html-to-react-pages/static/js/787.231e9f31.chunk.js.map"
+    "main.css": "/convert-html-to-react/static/css/main.770c08dc.css",
+    "main.js": "/convert-html-to-react/static/js/main.1c60ca2f.js",
+    "static/js/787.231e9f31.chunk.js": "/convert-html-to-react/static/js/787.231e9f31.chunk.js",
+    "index.html": "/convert-html-to-react/index.html",
+    "main.770c08dc.css.map": "/convert-html-to-react/static/css/main.770c08dc.css.map",
+    "main.1c60ca2f.js.map": "/convert-html-to-react/static/js/main.1c60ca2f.js.map",
+    "787.231e9f31.chunk.js.map": "/convert-html-to-react/static/js/787.231e9f31.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.770c08dc.css",
-    "static/js/main.d7827e68.js"
+    "static/js/main.1c60ca2f.js"
   ]
 }
